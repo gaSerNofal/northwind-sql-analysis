@@ -38,20 +38,20 @@ The project contains queries that answer questions like:
 
 ## Query 
 
-**-** Top 10 customers by purchase volume
-**-** Top 10 Product sold
-**-** Monthly sales trends
-**-** Best spending countries
-**-** Sales per Employee
-**-** Above average spending customers
-**-** Calculate monthly sales and then extract the highest month
-**-** Customers ranked by spending within each country < window functions >
-**-** Customers who purchased products from the "Seafood" category < Nested Query + IN >
-**-** Create View 
-**-** Running Total Sales
-**-** Customer classification based on their spending < CASE Statement > 
+- Top 10 customers by purchase volume
+- Top 10 Product sold
+- Monthly sales trends
+- Best spending countries
+- Sales per Employee
+- Above average spending customers
+- Calculate monthly sales and then extract the highest month
+- Customers ranked by spending within each country < window functions >
+- Customers who purchased products from the "Seafood" category < Nested Query + IN >
+- Create View 
+- Running Total Sales
+- Customer classification based on their spending < CASE Statement > 
 Customers are divided into levels (VIP / Regular / Low Spender)
-**-** Managers & Employees     < self join >
+- Managers & Employees     < self join >
 
 ---
 
